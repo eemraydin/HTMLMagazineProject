@@ -10,8 +10,10 @@
 
 
 <h2>Features I Implemented </h2>
+
 - <b> Responsive design to ensure compatibility across devices </b>
-- <b> Hamburger menu for easy navigation on mobile devices </b>
+- <b> Hamburger menu for easy navigation on mobile devices </b><br/><br/>
+
 
 
 > [!TIP]
@@ -25,7 +27,7 @@ This is a snapshot of the homepage:<br/><br/>
  <img src="./Screenshots/Main.gif" alt="Main page gif" width="700px">
  <br />
  <br />
-Here's another section shows carousel:<br/>
+Here's another gif shows carousel:<br/>
   <br/><img src="./Screenshots/carousel.gif" alt="Carousel gif" width="700px">
 <br />
 </p>
