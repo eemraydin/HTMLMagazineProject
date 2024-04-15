@@ -22,14 +22,14 @@
 <h2>Program walk-through: </h2>
 <p align="center">
 <p>This is a snapshot of the homepage:</p>
- <img src="./Screenshots/Main.gif" alt="Screenshot 2" width="700px">
+ <img src="./Screenshots/Main.gif" alt="Main page gif" width="700px">
 
 <p>Here's another section shows carousel:</p></br>
-  <img src="./Screenshots/carousel.gif" alt="Screenshot 2" width="700px">
+  <img src="./Screenshots/carousel.gif" alt="Carousel gif" width="700px">
 
 
 <p>Here full view of website:</p></br>
-  <img src="./Screenshots/fullviewGif.gif" alt="Screenshot 2" width="700px">
+  <img src="./Screenshots/fullview.gif" alt="Full view Gif" width="700px">
 </p>
 
 
