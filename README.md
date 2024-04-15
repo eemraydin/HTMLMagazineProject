@@ -21,13 +21,13 @@
 
 <h2>Program walk-through: </h2>
 <p align="center">
- 
-This is a snapshot of the homepage:<br/>
- <br/><img src="./Screenshots/Main.gif" alt="Main page gif" width="700px"><br/>
-
+This is a snapshot of the homepage:<br/><br/>
+ <img src="./Screenshots/Main.gif" alt="Main page gif" width="700px">
+ <br />
+ <br />
 Here's another section shows carousel:<br/>
   <br/><img src="./Screenshots/carousel.gif" alt="Carousel gif" width="700px">
-
+<br />
 </p>
 
 
